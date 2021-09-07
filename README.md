@@ -48,7 +48,7 @@ This repo contain files and detailed instructions on running the Watchman Servic
 #### Auto Installer
 To install and Run RPi Client Automatically just run the following command on your Raspberry Pi terminal
 
-- ```curl -sSL  https://raw.githubusercontent.com/Nauman3S/IOTManagementSystem/main/installer.sh  | bash```
+- ```curl -sSL  https://raw.githubusercontent.com/Nauman3S/WatchmanService/main/installer.sh  | bash```
 
 After the installer completes the process restart your raspberry pi.
 
