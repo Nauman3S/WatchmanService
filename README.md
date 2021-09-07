@@ -64,8 +64,8 @@ After the installer completes the process restart your raspberry pi.
 Configure variables in varibales.py file
 ```
 
-| Variable | Type | Description | 
-| :--- | :--- | :--- |
+| Variable | Description | 
+| :---  | :--- |
 | `GUI_APP_PATH` | **Required**. *Complete path to your GUI App*  |
 | `GUI_APP_WINDOW_NAME` | **Required**.  *Window name shown on the title bar of the app.*|
 | `TERMINAL_NAME` | **Required**.  *Name of the terminal*|
