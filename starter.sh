@@ -6,4 +6,4 @@ sleep 5
 #     sleep 1
 # done
 
-(/usr/bin/python3 /home/pi/WatchmanService/main.py >/home/pi/WatchmanService/logs/main_logs.txt 2>&1)
+(sudo /usr/bin/python3 /home/pi/WatchmanService/main.py >/home/pi/WatchmanService/logs/main_logs.txt 2>&1)
